@@ -35,6 +35,17 @@ Windows: C:\Users\Administrator\
 
 ---
 
+## 已安装工具
+
+### 飞书 CLI
+- 版本：1.0.43
+- 安装命令：`npm install -g @larksuite/cli`
+- 配置状态：✅ 已配置 App ID
+- App ID：cli_aa92cb078838dbcf
+- 用途：让AI直接操作飞书
+
+---
+
 ## 网络布局
 
 - WSL IP：172.18.233.207
@@ -49,6 +60,7 @@ Windows: C:\Users\Administrator\
 - Gateway HTTP服务就绪 (18789)
 - 3个Feishu WebSocket已连接
 - 配置已正确加载
+- 飞书CLI已安装并配置
 
 ### 待排查
 - API端点 (18791) 未监听
